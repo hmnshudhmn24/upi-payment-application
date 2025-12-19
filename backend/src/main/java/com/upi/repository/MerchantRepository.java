@@ -1,0 +1,1 @@
+package com.upi.repository; public interface MerchantRepository {}

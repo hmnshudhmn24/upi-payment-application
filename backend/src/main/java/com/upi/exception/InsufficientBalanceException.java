@@ -1,0 +1,1 @@
+package com.upi.exception; public class InsufficientBalanceException extends RuntimeException {}
