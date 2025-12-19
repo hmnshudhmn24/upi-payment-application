@@ -3,7 +3,7 @@
 A **full-stack UPI payment system** built using **Java Spring Boot (Backend)** and **Angular (Frontend)**.  
 This project simulates real-world **UPI transaction flows**, including **user authentication, bank account linking, secure payments, and transaction tracking**.
 
----
+
 
 ## 🚀 Key Features
 - 👤 User authentication with **JWT security**
@@ -14,7 +14,7 @@ This project simulates real-world **UPI transaction flows**, including **user au
 - 🧩 Modular backend & frontend architecture
 - 🔗 Designed for integration with core banking systems
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -31,7 +31,7 @@ This project simulates real-world **UPI transaction flows**, including **user au
 - 🧾 TypeScript  
 - 🎨 HTML & CSS  
 
----
+
 
 ## 📁 Project Structure
 ```
@@ -69,14 +69,14 @@ upi-payment-application
 └── README.md
 ```
 
----
+
 
 ## 🔐 Security (JWT)
 - 🔑 Token-based authentication
 - 🛡 Protected APIs using Spring Security
 - 🔓 Public access only for login endpoints
 
----
+
 
 ## 🔗 REST API Overview
 
@@ -92,7 +92,7 @@ upi-payment-application
 ### 📜 Transactions
 - `GET /api/transactions` → Fetch transaction history
 
----
+
 
 ## ⚙️ Setup & Run
 
@@ -115,7 +115,7 @@ upi-payment-application
    ```
 4. 🌐 Frontend runs on `http://localhost:4200`
 
----
+
 
 ## 🧪 Testing
 - 🧰 Use **Postman** to test backend APIs
@@ -123,18 +123,3 @@ upi-payment-application
 ```
 Authorization: Bearer <JWT_TOKEN>
 ```
-
----
-
-## 🌱 Future Enhancements
-- 🧩 Microservices architecture
-- 🏦 Integration with core banking systems
-- 📱 Mobile app support
-- 📘 Swagger / OpenAPI documentation
-- 🐳 Docker & Kubernetes deployment
-- 🔔 Notifications (SMS / Email)
-
----
-
-## 📜 License
-📄 **Apache License 2.0**
